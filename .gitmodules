@@ -52,3 +52,6 @@
 [submodule "logcheck"]
 	path = logcheck
 	url = git@github.com:NITEMAN/puppet-logcheck
+[submodule "logrotate"]
+	path = logrotate
+	url = git@github.com:rodjek/puppet-logrotate.git
