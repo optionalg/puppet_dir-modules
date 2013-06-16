@@ -94,3 +94,6 @@
 [submodule "pecl"]
 	path = pecl
 	url = git@github.com:NITEMAN/puppet-pecl
+[submodule "php"]
+	path = php
+	url = git@github.com:NITEMAN/puppet-php
