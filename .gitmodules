@@ -109,3 +109,6 @@
 [submodule "rsyslog"]
 	path = rsyslog
 	url = git@github.com:NITEMAN/puppet-rsyslog
+[submodule "ssh"]
+	path = ssh
+	url = git@github.com:NITEMAN/puppet-ssh
