@@ -124,3 +124,6 @@
 [submodule "tomcat"]
 	path = tomcat
 	url = git@github.com:NITEMAN/puppet-tomcat
+[submodule "update_augeas"]
+	path = update_augeas
+	url = git@github.com:NITEMAN/puppet-update_augeas
