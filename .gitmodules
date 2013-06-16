@@ -28,3 +28,6 @@
 [submodule "defaults_pam"]
 	path = defaults_pam
 	url = git@github.com:NITEMAN/puppet-defaults_pam
+[submodule "dkim_filter"]
+	path = dkim_filter
+	url = git@github.com:NITEMAN/puppet-dkim_filter
