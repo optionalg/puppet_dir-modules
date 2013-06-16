@@ -58,3 +58,6 @@
 [submodule "logwatch"]
 	path = logwatch
 	url = git@github.com:NITEMAN/puppet-logwatch
+[submodule "memcached"]
+	path = memcached
+	url = git@github.com:saz/puppet-memcached.git
