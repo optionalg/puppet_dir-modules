@@ -85,3 +85,6 @@
 [submodule "openvpn_wrapper"]
 	path = openvpn_wrapper
 	url = git@github.com:NITEMAN/puppet-openvpn_wrapper
+[submodule "pam"]
+	path = pam
+	url = git@github.com:NITEMAN/puppet-pam
