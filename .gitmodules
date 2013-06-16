@@ -31,3 +31,6 @@
 [submodule "dkim_filter"]
 	path = dkim_filter
 	url = git@github.com:NITEMAN/puppet-dkim_filter
+[submodule "dnsmasq"]
+	path = dnsmasq
+	url = git@github.com:saz/puppet-dnsmasq
