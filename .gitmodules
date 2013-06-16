@@ -55,3 +55,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = git@github.com:rodjek/puppet-logrotate.git
+[submodule "logwatch"]
+	path = logwatch
+	url = git@github.com:NITEMAN/puppet-logwatch
