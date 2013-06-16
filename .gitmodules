@@ -67,3 +67,6 @@
 [submodule "munin"]
 	path = munin
 	url = git@github.com:NITEMAN/puppet-munin
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:NITEMAN/puppet-mysql
