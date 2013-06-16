@@ -112,3 +112,6 @@
 [submodule "ssh"]
 	path = ssh
 	url = git@github.com:NITEMAN/puppet-ssh
+[submodule "stdlib"]
+	path = stdlib
+	url = git@github.com:puppetlabs/puppetlabs-stdlib.git
