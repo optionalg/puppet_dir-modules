@@ -139,3 +139,6 @@
 [submodule "mlocate"]
 	path = mlocate
 	url = git@github.com:NITEMAN/puppet-mlocate
+[submodule "varnish"]
+	path = varnish
+	url = git@github.com:NITEMAN/puppet-varnish
