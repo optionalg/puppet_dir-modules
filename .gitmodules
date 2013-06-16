@@ -37,3 +37,6 @@
 [submodule "drafts"]
 	path = drafts
 	url = git@github.com:NITEMAN/puppet-drafts
+[submodule "drush"]
+	path = drush
+	url = git@github.com:NITEMAN/puppet-drush
