@@ -19,3 +19,6 @@
 [submodule "backupninja"]
 	path = backupninja
 	url = git@github.com:NITEMAN/puppet-backupninja.git
+[submodule "concat"]
+	path = concat
+	url = git@github.com:ripienaar/puppet-concat.git
