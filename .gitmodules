@@ -22,3 +22,6 @@
 [submodule "concat"]
 	path = concat
 	url = git@github.com:ripienaar/puppet-concat.git
+[submodule "defaults"]
+	path = defaults
+	url = git@github.com:NITEMAN/puppet-defaults
