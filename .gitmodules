@@ -43,3 +43,6 @@
 [submodule "etckeeper"]
 	path = etckeeper
 	url = git@github.com:thomasvandoren/puppet-etckeeper.git
+[submodule "fail2ban"]
+	path = fail2ban
+	url = git@github.com:NITEMAN/puppet-fail2ban
