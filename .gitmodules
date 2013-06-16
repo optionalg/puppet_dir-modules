@@ -40,3 +40,6 @@
 [submodule "drush"]
 	path = drush
 	url = git@github.com:NITEMAN/puppet-drush
+[submodule "etckeeper"]
+	path = etckeeper
+	url = git@github.com:thomasvandoren/puppet-etckeeper.git
