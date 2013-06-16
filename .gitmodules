@@ -25,3 +25,6 @@
 [submodule "defaults"]
 	path = defaults
 	url = git@github.com:NITEMAN/puppet-defaults
+[submodule "defaults_pam"]
+	path = defaults_pam
+	url = git@github.com:NITEMAN/puppet-defaults_pam
