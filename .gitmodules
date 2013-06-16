@@ -61,3 +61,6 @@
 [submodule "memcached"]
 	path = memcached
 	url = git@github.com:saz/puppet-memcached.git
+[submodule "monit"]
+	path = monit
+	url = git@github.com:NITEMAN/puppet-monit
