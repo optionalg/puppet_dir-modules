@@ -73,3 +73,6 @@
 [submodule "newrelic"]
 	path = newrelic
 	url = git@github.com:fsalum/puppet-newrelic.git
+[submodule "ntp"]
+	path = ntp
+	url = git@github.com:NITEMAN/puppet-ntp
