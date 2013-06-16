@@ -34,3 +34,6 @@
 [submodule "dnsmasq"]
 	path = dnsmasq
 	url = git@github.com:saz/puppet-dnsmasq
+[submodule "drafts"]
+	path = drafts
+	url = git@github.com:NITEMAN/puppet-drafts
