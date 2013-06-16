@@ -82,3 +82,6 @@
 [submodule "openvpn"]
 	path = openvpn
 	url = git@github.com:luxflux/puppet-openvpn.git
+[submodule "openvpn_wrapper"]
+	path = openvpn_wrapper
+	url = git@github.com:NITEMAN/puppet-openvpn_wrapper
