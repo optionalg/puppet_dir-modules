@@ -130,3 +130,6 @@
 [submodule "update_puppet"]
 	path = update_puppet
 	url = git@github.com:NITEMAN/puppet-update_puppet
+[submodule "util_hiera_info"]
+	path = util_hiera_info
+	url = git@github.com:NITEMAN/puppet-util_hiera_info
