@@ -97,3 +97,6 @@
 [submodule "php"]
 	path = php
 	url = git@github.com:NITEMAN/puppet-php
+[submodule "postfix"]
+	path = postfix
+	url = git@github.com:NITEMAN/puppet-postfix
