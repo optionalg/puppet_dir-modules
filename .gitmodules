@@ -106,3 +106,6 @@
 [submodule "root_user"]
 	path = root_user
 	url = git@github.com:NITEMAN/puppet-root_user
+[submodule "rsyslog"]
+	path = rsyslog
+	url = git@github.com:NITEMAN/puppet-rsyslog
