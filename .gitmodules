@@ -76,3 +76,6 @@
 [submodule "ntp"]
 	path = ntp
 	url = git@github.com:NITEMAN/puppet-ntp
+[submodule "nullmailer"]
+	path = nullmailer
+	url = git@github.com:akumria/puppet-nullmailer.git
