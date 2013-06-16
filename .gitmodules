@@ -100,3 +100,6 @@
 [submodule "postfix"]
 	path = postfix
 	url = git@github.com:NITEMAN/puppet-postfix
+[submodule "redis"]
+	path = redis
+	url = git@github.com:NITEMAN/puppet-redis
