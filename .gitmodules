@@ -136,3 +136,6 @@
 [submodule "xhprof"]
 	path = xhprof
 	url = git@github.com:NITEMAN/puppet-xhprof
+[submodule "mlocate"]
+	path = mlocate
+	url = git@github.com:NITEMAN/puppet-mlocate
