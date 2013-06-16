@@ -79,3 +79,6 @@
 [submodule "nullmailer"]
 	path = nullmailer
 	url = git@github.com:akumria/puppet-nullmailer.git
+[submodule "openvpn"]
+	path = openvpn
+	url = git@github.com:luxflux/puppet-openvpn.git
