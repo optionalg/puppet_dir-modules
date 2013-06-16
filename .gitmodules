@@ -64,3 +64,6 @@
 [submodule "monit"]
 	path = monit
 	url = git@github.com:NITEMAN/puppet-monit
+[submodule "munin"]
+	path = munin
+	url = git@github.com:NITEMAN/puppet-munin
