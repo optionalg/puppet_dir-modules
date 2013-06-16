@@ -88,3 +88,6 @@
 [submodule "pam"]
 	path = pam
 	url = git@github.com:NITEMAN/puppet-pam
+[submodule "pear"]
+	path = pear
+	url = git@github.com:NITEMAN/puppet-pear
