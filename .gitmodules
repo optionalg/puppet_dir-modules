@@ -49,3 +49,6 @@
 [submodule "gitolite"]
 	path = gitolite
 	url = git@github.com:NITEMAN/puppet-gitolite
+[submodule "logcheck"]
+	path = logcheck
+	url = git@github.com:NITEMAN/puppet-logcheck
