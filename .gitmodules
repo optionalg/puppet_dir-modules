@@ -10,3 +10,6 @@
 [submodule "apt_dotdeb"]
 	path = apt_dotdeb
 	url = git@github.com:NITEMAN/puppet-apt_dotdeb
+[submodule "apt_update_enforce"]
+	path = apt_update_enforce
+	url = git@github.com:NITEMAN/puppet-apt_update_enforce
