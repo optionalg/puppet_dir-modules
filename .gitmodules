@@ -46,3 +46,6 @@
 [submodule "fail2ban"]
 	path = fail2ban
 	url = git@github.com:NITEMAN/puppet-fail2ban
+[submodule "gitolite"]
+	path = gitolite
+	url = git@github.com:NITEMAN/puppet-gitolite
