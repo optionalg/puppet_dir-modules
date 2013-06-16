@@ -133,3 +133,6 @@
 [submodule "util_hiera_info"]
 	path = util_hiera_info
 	url = git@github.com:NITEMAN/puppet-util_hiera_info
+[submodule "xhprof"]
+	path = xhprof
+	url = git@github.com:NITEMAN/puppet-xhprof
