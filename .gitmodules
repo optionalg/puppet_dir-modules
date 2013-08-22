@@ -142,3 +142,6 @@
 [submodule "varnish"]
 	path = varnish
 	url = git@github.com:NITEMAN/puppet-varnish
+[submodule "dns"]
+	path = dns
+	url = git@github.com:ajjahn/puppet-dns.git
