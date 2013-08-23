@@ -145,3 +145,6 @@
 [submodule "dns"]
 	path = dns
 	url = git@github.com:ajjahn/puppet-dns.git
+[submodule "sysctl"]
+	path = sysctl
+	url = git@github.com:luxflux/puppet-sysctl.git
