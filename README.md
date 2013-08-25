@@ -4,7 +4,7 @@ puppet_dir-modules
 Konwn Issues
 ------------
 
-* dns: always triggers a refresh TODO: create issue
+* dns: always triggers a refresh if "serial" not set for the zone
 
 TODO:
 -----
