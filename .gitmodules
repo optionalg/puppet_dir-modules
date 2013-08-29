@@ -145,3 +145,6 @@
 [submodule "sysctl"]
 	path = sysctl
 	url = git@github.com:luxflux/puppet-sysctl.git
+[submodule "pear"]
+	path = pear
+	url = git@github.com:rafaelfelix/puppet-pear.git
