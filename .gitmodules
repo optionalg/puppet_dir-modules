@@ -148,3 +148,6 @@
 [submodule "pear"]
 	path = pear
 	url = git@github.com:rafaelfelix/puppet-pear.git
+[submodule "iptables_persistent"]
+	path = iptables_persistent
+	url = git@github.com:NITEMAN/puppet-iptables_persistent.git
